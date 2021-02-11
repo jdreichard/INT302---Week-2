@@ -1,5 +1,6 @@
 // INT302 - Week 2.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// Add Documentation
+// Dr. Joshua Reichard
 
 #include <iostream>
 using namespace std;
